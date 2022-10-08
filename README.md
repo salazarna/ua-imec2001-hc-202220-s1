@@ -75,14 +75,14 @@ El canal general del curso en Teams es el medio centralizado para la resolución
 ## Contenido y cronograma del curso
 | Semana | Temática                                                                                                      | Fecha             |
 |:------:|:--------------------------------------------------------------------------------------------------------------|:------------------|
-|   1    | Introducción a Python y Jupyter Notebooks                                                                     | Agosto 9 y 11    | 
-|   2    | Gráficas y visualización (ajuste de datos, estadística, incertidumbre, propagación de error, barras de error) | Agosto 16 y 18    |
-|   3    | Interpolación (curva de una bomba)                                                                            | Agosto 23 y 25    |
-|   4    | Raíces de ecuaciones (factor de fricción de Darcy)                                                            | Agosto 30 y Septiembre 1|
-|   5    | Sistemas de ecuaciones (estática, e.g., cerchas)                                                              | Septiembre 6 y 8  |
-|   6    | Optimización (operación de sistema eólico y de bombeo)                                                        | Septiembre 13 y 15|
-|   7    | ODEs (incertidumbre-propagación, dinámica, e.g., péndulos)                                                                               | Septiembre 20 y 22|
-|   8    | FFT (señal a partir de datos de péndulos y audio)                                                             | Septiembre 27 y 29|
+|   1    | Introducción a Python y Jupyter Notebooks                                                                     | Octubre 11 y 13    | 
+|   2    | Gráficas y visualización (ajuste de datos, estadística, incertidumbre, propagación de error, barras de error) | Octubre 18 y 20    |
+|   3    | Interpolación (curva de una bomba)                                                                            | Octubre 25 y 27    |
+|   4    | Raíces de ecuaciones (factor de fricción de Darcy)                                                            | Noviembre 1 y 3    |
+|   5    | Sistemas de ecuaciones (estática, e.g., cerchas)                                                              | Noviembre 8 y 10   |
+|   6    | Optimización (operación de sistema eólico y de bombeo)                                                        | Noviembre 15 y 17  |
+|   7    | ODEs (incertidumbre-propagación, dinámica, e.g., péndulos)                                                                               | Noviembre 22 y 24|
+|   8    | FFT (señal a partir de datos de péndulos y audio)                                                             | Noviembre 29 y Diciembre 1|
 
 ## Sistema de evaluación del curso
 La evaluación del curso se realizará mediante seis (6) talleres, actividades en clase y un (1) proyecto. Los entregables evalúan el estado de desarrollo de cada uno de los objetivos del curso: (i.) suposiciones para simplificar sistemas y ambientes complejos; (ii.) escoger y aplicar modelos cuantitativos y simulaciones; y (iii.) demostrar destrezas de autoeducación.
