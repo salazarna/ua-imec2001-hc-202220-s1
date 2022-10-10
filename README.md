@@ -15,11 +15,13 @@ Martes y jueves de 15:30 a 17:20 en el <b>Au-202</b>.
 > **Correo:** na.salazar10@uniandes.edu.co <br>
 > **Oficina:** ML-754 / ML-308A <br>
 > **Atención a estudiantes:**  vía correo <br>
+> **Horario de atención:**  L – V [8:00 a.m. – 5:00 p.m.] <br>
 
 #### Monitora
 > **María Alejandra Vargas Torresa** <br>
 > **Correo:** ma.vargas73@uniandes.edu.co <br>
 > **Atención a estudiantes:**  vía correo <br>
+> **Horario de atención:**  I [7:00 – 9:00 a.m.], J [10:00 a.m. – 4:00 p.m.] <br>
 
 ## Descripción del Curso
 Los sistemas de cómputo se han convertido en herramientas básicas e indispensables para la práctica de la ingeniería. Este es un curso exploratorio de las **herramientas computacionales** modernas y relevantes para el modelado de sistemas y la solución de problemas en ingeniería.
@@ -120,7 +122,7 @@ Es responsabilidad del estudiante ser el centro de su propio aprendizaje y distr
 - Zed Shaw (2014). Learn Python the Hard Way, 3rd Edition, USA. Pearson Education. ISBN 13: 978-0321884916.
 
 #### Repositorio
-Para [clonar](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository) el repositorio `ua-imec2001-hc-202220` se recomienda usar el software [GitHub Desktop](https://desktop.github.com/). La URL del repositorio es: [salazarna/ua-imec2001-hc-202220](https://github.com/salazarna/ua-imec2001-hc- 202220).
+Para [clonar](https://docs.github.com/es/repositories/creating-and-managing-repositories/cloning-a-repository) el repositorio `ua-imec2001-hc-202220` se recomienda usar el software [GitHub Desktop](https://desktop.github.com/). La URL del repositorio es: [salazarna/ua-imec2001-hc-202220-s1](https://github.com/salazarna/ua-imec2001-hc-202220-s1).
 
 Otra opción es desde el terminal con en el [ambiente](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) activado; para esto ejecute:
 
