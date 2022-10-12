@@ -20,7 +20,7 @@ Martes y jueves de 15:30 a 17:20 en el <b>Au-202</b>.
 #### Monitora
 > **María Alejandra Vargas Torresa** <br>
 > **Correo:** ma.vargas73@uniandes.edu.co <br>
-> **Atención a estudiantes:**  vía correo <br>
+> **Atención a estudiantes:**  vía Teams <br>
 > **Horario de atención:**  I [7:00 – 9:00 a.m.], J [10:00 a.m. – 4:00 p.m.] <br>
 
 ## Descripción del Curso
