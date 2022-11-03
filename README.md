@@ -6,7 +6,7 @@ Curso Obligatorio – Sección 1 <br>
 2022-2 – Ciclo 2 <br>
 
 ## Horario de clases
-Martes y jueves de 15:30 a 17:20 en el <b>Au-202</b>.
+Martes (<b>Au-202</b>) y jueves (<b>SD-307</b>) de 15:30 a 17:20.
 
 ## Equipo académico
 
